@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width= device-width , initial-scale=1">
+<meta http-equiv="“X-UA-Compatible”" content="“ie=edge”">
+<link rel="stylesheet" href="style.css">
+<title> Assignment 1 </title>
+</head>
+<body>
+	<h1 class="h1"> Our Menu </h1>
+	
+	<section class="sec1 col-lg-4 col-mg-6 col-sg-12"> 
+	 <div class="d1"> Sushi </div>
+	 <article class="a1 ">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</article>
+	 </section>
+	
+    <section class="sec2 col-lg-4 col-mg-6 col-sg-12">
+     <div class="d2"> Desert </div>
+     <article class="a2 ">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. </article>
+    </section>
+
+	<section class="sec3 col-lg-4 col-mg-12 col-sg-12">
+     <div class="d3">Pizza</div>
+     <article class="a3 ">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem..</article> 
+    </section>
+
+
+</body></html>
